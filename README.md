@@ -13,7 +13,7 @@
 
   ## Installation 
 
-  Install
+  Install;
 
   ## Usage
 
@@ -21,11 +21,9 @@
 
   ## License
 
+  Choice 2
+  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
   
-  Choice 1
-Choice 2
-Choice 3
-
   ## Contribution
 
   Contribute
@@ -36,5 +34,5 @@ Choice 3
 
   ## Questions
 
-  [MasonMcCoy](github.com/MasonMcCoy)  
-  email
+  Visit my GitHub for more information: [MasonMcCoy](https://github.com/MasonMcCoy/)  
+  Contact me at email with any additional questions.

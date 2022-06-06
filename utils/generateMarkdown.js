@@ -14,10 +14,6 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {}
 
-function renderLicenses(licenseArray) {
-  return licenseArray.join("\n")
-  }
-
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
@@ -43,9 +39,9 @@ function generateMarkdown(data) {
 
   ## License
 
+  ${data.license}
+  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
   
-  ${renderLicenses(data.license)}
-
   ## Contribution
 
   ${data.contribution}
@@ -56,8 +52,8 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  [${data.GitHub}](github.com/${data.GitHub})  
-  ${data.email}
+  Visit my GitHub for more information: [${data.GitHub}](https://github.com/${data.GitHub}/)  
+  Contact me at ${data.email} with any additional questions.
 `;
 }
 

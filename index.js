@@ -36,7 +36,7 @@ const questions = [
         name: 'instructions'
     },
     {
-        type: 'checkbox',
+        type: 'list',
         message: 'Chose a license(s) for your project:',
         choices: ["Choice 1", "Choice 2", "Choice 3"],
         name: 'license'
