@@ -1,25 +1,19 @@
-# Test P
+# Test Project
   ## Description
 
   Testing
 
   ## Table of Contents
-  [Installation](#installation)
-
-  [Usage](#usage)
-
-  [License](#license)
-
-  [Contribution](#contribution)
-
-  [Tests](#tests)
-
+  [Installation](#installation)  
+  [Usage](#usage)  
+  [License](#license)  
+  [Contribution](#contribution)  
+  [Tests](#tests)  
   [Questions](#questions)
-
 
   ## Installation 
 
-  Ins
+  Install
 
   ## Usage
 
@@ -34,7 +28,7 @@ Choice 3
 
   ## Contribution
 
-  Con
+  Contribute
 
   ## Tests
 
@@ -42,6 +36,5 @@ Choice 3
 
   ## Questions
 
-  name
-
+  [MasonMcCoy](github.com/MasonMcCoy)  
   email

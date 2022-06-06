@@ -7,48 +7,48 @@ const mrkdwn = require('./utils/generateMarkdown');
 const questions = [
     {
         type: 'input',
-        message: 'Enter your project title: ',
+        message: 'Enter your project title:',
         name: 'title'
     },
     {
         type: 'input',
-        message: 'Write a description of your project: ',
+        message: 'Write a description of your project:',
         name: 'description'
     },
     {
         type: 'input',
-        message: 'Input installation instructions: ',
+        message: 'Input installation instructions:',
         name: 'installation'
     },
     {
         type: 'input',
-        message: 'Enter usage information: ',
+        message: 'Enter usage information:',
         name: 'usage'
     },
     {
         type: 'input',
-        message: 'Create contribution guidelines: ',
+        message: 'Create contribution guidelines:',
         name: 'contribution'
     },
     {
         type: 'input',
-        message: 'Describe test instructions: ',
+        message: 'Describe test instructions:',
         name: 'instructions'
     },
     {
         type: 'checkbox',
-        message: 'Chose a license(s) for your project: ',
+        message: 'Chose a license(s) for your project:',
         choices: ["Choice 1", "Choice 2", "Choice 3"],
         name: 'license'
     },
     {
         type: 'input',
-        message: 'Enter your GitHub username: ',
+        message: 'Enter your GitHub username:',
         name: 'GitHub'
     },
     {
         type: 'input',
-        message: 'Enter your email address: ',
+        message: 'Enter your email address:',
         name: 'email'
     },
 ];

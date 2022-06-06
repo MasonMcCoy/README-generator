@@ -26,12 +26,12 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Table of Contents
-  [Installation](#installation)\n
-  [Usage](#usage)\n
-  [License](#license)\n
-  [Contribution](#contribution)\n
-  [Tests](#tests)\n
-  [Questions](#questions)\n
+  [Installation](#installation)  
+  [Usage](#usage)  
+  [License](#license)  
+  [Contribution](#contribution)  
+  [Tests](#tests)  
+  [Questions](#questions)
 
   ## Installation 
 
@@ -56,7 +56,7 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  ${data.GitHub}\n
+  [${data.GitHub}](github.com/${data.GitHub})  
   ${data.email}
 `;
 }
