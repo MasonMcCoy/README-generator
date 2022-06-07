@@ -1,7 +1,10 @@
 # Test Project
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+
   ## Description
 
-  Testing
+  Testing!
 
   ## Table of Contents
   [Installation](#installation)  
@@ -13,24 +16,24 @@
 
   ## Installation 
 
-  Install;
+  Install!
 
   ## Usage
 
-  Use
+  Use!
 
   ## License
+    
+  Licensed under the MIT License. You may not use this file except in compliance with this license.
+  https://opensource.org/licenses/MIT
 
-  Choice 2
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-  
   ## Contribution
 
-  Contribute
+  Contribute!
 
   ## Tests
 
-  Test
+  Test!
 
   ## Questions
 
