@@ -16,11 +16,11 @@
 
   ## Installation 
 
-  Make sure to have Inquirer installed!
+  Make sure you have Inquirer installed!
 
   ## Usage
 
-  Use it to make READMEs!
+  Use it however you'd like!
 
   ## License
     
@@ -29,7 +29,7 @@
 
   ## Contribution
 
-  Contribute however you would like by submitting pull requests!
+  Contribute by making a pull request!
 
   ## Tests
 
