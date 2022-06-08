@@ -1,4 +1,4 @@
-# Test Project
+# README Generator
 
   ## Description
 
@@ -33,6 +33,6 @@
   Contact me at mmasonmccoy@gmail.com with any additional questions.
 
   ## Application Screenshots
-  ![Command Line]()
+  ![Command Line](https://github.com/MasonMcCoy/README-generator/blob/main/media/command_line_capture.PNG)
 
-  ![README Example]()
+  ![README Example](https://github.com/MasonMcCoy/README-generator/blob/main/media/README_capture.PNG)
