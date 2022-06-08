@@ -1,10 +1,10 @@
-# Test
+# Test Project
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)]
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
 
-  for testing!
+  A project for testing my new README generator!
 
   ## Table of Contents
   [Installation](#installation)  
@@ -16,11 +16,11 @@
 
   ## Installation 
 
-  Install!
+  Make sure to have Inquirer installed!
 
   ## Usage
 
-  Use!
+  Use it to make READMEs!
 
   ## License
     
@@ -29,13 +29,13 @@
 
   ## Contribution
 
-  Contribute!
+  Contribute however you would like by submitting pull requests!
 
   ## Tests
 
-  Test!
+  Testing yet to come!
 
   ## Questions
 
   Visit my GitHub for more information: [MasonMcCoy](https://github.com/MasonMcCoy/)  
-  Contact me at email with any additional questions.
+  Contact me at mmasonmccoy@gmail.com with any additional questions.
