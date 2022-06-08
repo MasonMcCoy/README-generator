@@ -1,41 +1,38 @@
 # Test Project
 
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
   ## Description
 
-  A project for testing my new README generator!
+  A README generator using Inquirer that allows for the creation of detailed READMEs via the command line. Select from a list of GitHub-support licenses and include details about your project, the tools used, and how other contributors might engage with the project.
 
   ## Table of Contents
   [Installation](#installation)  
   [Usage](#usage)  
-  [License](#license)  
   [Contribution](#contribution)  
   [Tests](#tests)  
   [Questions](#questions)
 
   ## Installation 
 
-  Make sure you have Inquirer installed!
+  Inquirer is required to run this package.
 
   ## Usage
 
-  Use it however you'd like!
-
-  ## License
-    
-  Licensed under the MIT License. You may not use this file except in compliance with this license.
-  https://opensource.org/licenses/MIT
+  Use this generator freely.
 
   ## Contribution
 
-  Contribute by making a pull request!
+  Feel free to contribute in any way you would like! Submit a pull request.
 
   ## Tests
 
-  Testing yet to come!
+  No testing at this time.
 
   ## Questions
 
   Visit my GitHub for more information: [MasonMcCoy](https://github.com/MasonMcCoy/)  
   Contact me at mmasonmccoy@gmail.com with any additional questions.
+
+  ## Application Screenshots
+  ![Command Line]()
+
+  ![README Example]()
