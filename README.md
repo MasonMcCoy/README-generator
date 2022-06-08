@@ -1,10 +1,10 @@
-# as
+# Test
 
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)]
 
   ## Description
 
-  as
+  for testing!
 
   ## Table of Contents
   [Installation](#installation)  
@@ -16,11 +16,11 @@
 
   ## Installation 
 
-  as
+  Install!
 
   ## Usage
 
-  as
+  Use!
 
   ## License
     
@@ -29,13 +29,13 @@
 
   ## Contribution
 
-  as
+  Contribute!
 
   ## Tests
 
-  as
+  Test!
 
   ## Questions
 
-  Visit my GitHub for more information: [as](https://github.com/as/)  
-  Contact me at as with any additional questions.
+  Visit my GitHub for more information: [MasonMcCoy](https://github.com/MasonMcCoy/)  
+  Contact me at email with any additional questions.
